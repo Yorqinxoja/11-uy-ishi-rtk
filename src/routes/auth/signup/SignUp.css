@@ -1,0 +1,56 @@
+.custom-signup-form {
+  background-color: #1d1d1d; 
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+.custom-signup-form .ant-form-item-label > label {
+  color: white; 
+}
+
+.custom-button {
+  background-color: #00a65a; 
+  border: none;
+  color: white;
+}
+
+.custom-button:hover {
+  background-color: #007a40; 
+  color: white;
+}
+
+.custom-signup-form .ant-input,
+.custom-signup-form .ant-input-password {
+  background-color: #2d2d2d; 
+  border: 1px solid #444;
+  color: white;
+}
+
+.custom-signup-form .ant-input:focus,
+.custom-signup-form .ant-input-password:focus {
+  border-color: #00a65a;
+  box-shadow: none;
+}
+
+.custom-signup-form .ant-input::placeholder,
+.custom-signup-form .ant-input-password::placeholder {
+  color: #bbb; 
+}
+
+.custom-signup-form .ant-btn {
+  width: 100%;
+}
+
+.text-center {
+  color: white;
+}
+
+a {
+  color: #00a65a;
+}
+
+a:hover {
+  color: #007a40;
+}
